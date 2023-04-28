@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "reviewDescription": "Polash is an outstanding software developer with a keen eye for detail and a knack for problem-solving. His expertise in coding languages and frameworks is matched by his ability to communicate complex technical concepts with ease. <br /> Polash's collaborative nature and dedication to producing clean, efficient code make him a valuable asset to any team. His passion for his craft and positive attitude toward work ensures that he is a pleasure to work with.",
+    "person": {
+      "imageUrl": "https://media.licdn.com/dms/image/C4D03AQFVGav5z4kJ4A/profile-displayphoto-shrink_200_200/0/1646771249786?e=1686787200&v=beta&t=_ooMVvIj86IPtRy6m3mO-h61xW5CwO7mKM7RJM9A6BY",
+      "image_alt": "David Ker",
+      "role": "Co-Founder, Zination",
+      "social_url": {
+        "linkedin": "https://www.linkedin.com/in/davidker/"
+      }
+    }
+  },
+  {
+    "id": 2,
+    "reviewDescription": "Polash's expertise in software development is second to none, and his work is always executed with precision and efficiency. He is an excellent communicator and works seamlessly with both technical and non-technical teams. <br /> I highly recommend Polash to any team looking for a skilled and driven software developer. He is an invaluable asset, and his contributions are not something you want to miss out on!",
+    "person": {
+      "imageUrl": "https://hanaboso.com/img/profile/lukas.jpg",
+      "image_alt": "LUKÁŠ TRUMM",
+      "role": "Software Architect, Hanaboso",
+      "social_url": {
+        "linkedin": "https://www.linkedin.com/in/lukastrumm/"
+      }
+    }
+  },
+  {
+    "id": 3,
+    "reviewDescription": "Polash is a quick learner who is always looking for ways to improve his skills and stay up-to-date with the latest industry trends. His dedication to his craft is truly inspiring, and his ability to work seamlessly with teams makes him an excellent addition to any project. <br /> His commitment to excellence and unwavering work ethic make him a valuable asset, and I have no doubt that he will continue to be a high performer wherever he goes.",
+    "person": {
+      "imageUrl": "https://media.licdn.com/dms/image/C5603AQF7vQkxcu0aeA/profile-displayphoto-shrink_200_200/0/1643691256175?e=1686787200&v=beta&t=mBWgmzqkrHmqR06jMZOPpSTIj1fQMdcP3lJP3ernIF0",
+      "image_alt": "Anthony Nagendraraj",
+      "role": "Co-Founder, Spontivly",
+      "social_url": {
+        "linkedin": "https://www.linkedin.com/in/anthonynagendraraj/"
+      }
+    }
+  }
+]

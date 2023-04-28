@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "icon": "images/design.png",
+    "title": "Design",
+    "description": "I have a passion for creating user interfaces that are both visually appealing and highly functional. The process of turning an idea into a tangible reality is an exciting and fulfilling experience for me."
+  },
+  {
+    "id": 2,
+    "icon": "images/develop.png",
+    "title": "Develop",
+    "description": "My expertise lies in developing applications that are not only fast and responsive, but also user-friendly. I take great pleasure in taking a design and bringing it to life through coding, creating a useful tool that serves the needs of its users."
+  },
+  {
+    "id": 3,
+    "icon": "images/deliver.png",
+    "title": "Deliver",
+    "description": "As a professional, I merge design and development to deliver outstanding products. I'm enthusiastic about the entire product development process, from planning to coding, deployment and finally ensuring a top-notch user experience."
+  }
+]

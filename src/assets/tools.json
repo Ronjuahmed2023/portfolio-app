@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "icon": "images/language.png",
+    "title": "Language",
+    "items": ["HTML", "CSS", "SCSS", "JavaScript", "TypeScript", "Python", "C"]
+  },
+  {
+    "id": 2,
+    "icon": "images/technology.png",
+   "title": "Technology",
+   "items": ["React.js", "Node.js", "MongoDB", "Firebase SDK", "Stripe SDK", "PostgreSQL", "AWS (beginner)"] 
+  },
+  {
+    "id": 3,
+    "icon": "images/tools.png",
+    "title": "Tools",
+    "items": ["Git", "GitHub", "Figma", "Terminal", "VS Code", "MUI", "Tailwind CSS"]
+  }
+]

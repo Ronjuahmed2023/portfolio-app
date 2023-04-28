@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "companyName": "Zination Technologies",
+    "role": "Junior Software Engineer",
+    "duration": "Jan 2020 - Jan 2021",
+    "description": "As a junior front-end developer at Zination, I worked on the Rhonda.ai project, which helps companies improve their hiring process by allowing them to screen and select employees more efficiently. <br /> My responsibilities included integrating the applicant screening module, building a Rhonda saving tracker, implementing the Ask Rhonda feature, designing a pixel-perfect UI/UX, fixing bugs, and deploying the web application to production."
+  },
+  {
+    "id": 2,
+    "companyName": "Hanaboso Studio",
+    "role": "Front End Developer",
+    "duration": "Mar 2021 - Apr 2022",
+    "description": "As a member of the development team at Hanaboso, I contributed to the North Dent project, a dental management web application. My focus was on building the UI with dynamic functionality using React.js & Node.js, creating a custom library for making API requests, and developing reusable components to avoid duplicating code. <br /> I implemented various features such as authentication, global search, notifications, chat, patient listings, filter, edit, delete throughout the patient lists, etc. Furthermore, I collaborated with other team members to ensure a responsive and visually appealing UI, utilizing the latest web technologies."
+  },
+  {
+    "id": 3,
+    "companyName": "Spontivly",
+    "role": "Full Stack Developer",
+    "duration": "Jun 2022 - Feb 2023",
+    "description": "At Spontivly, I played a crucial role in developing and maintaining web applications as a member of the development team. Additionally, I managed the team to ensure project success. One of my key contributions was building a library content management system that offered user-friendly features for creating and sharing new content with audiences. <br /> I also helped architect the backend of the library content management system, utilizing express.js and MongoDB as a database. Furthermore, I implemented a complex search filter that enabled users to filter their content by type, status, tags, title, description, etc. I took charge of designing and developing the UI/UX, fixing numerous bugs, and deploying the web application to production."
+  }
+]
