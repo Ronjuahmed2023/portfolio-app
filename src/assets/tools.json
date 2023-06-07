@@ -2,19 +2,19 @@
   {
     "id": 1,
     "icon": "images/language.png",
-    "title": "Language",
-    "items": ["HTML", "CSS", "SCSS", "JavaScript", "TypeScript", "Python", "C"]
+    "title": "Keyword Research",
+    "items": ["SEMrush", "Ubersuggest", "Ahrefs Keyword Explorer", "Google Keyword Planner", "Moz Keyword Explorer", "AnswerThePublic"]
   },
   {
     "id": 2,
     "icon": "images/technology.png",
-   "title": "Technology",
-   "items": ["React.js", "Node.js", "MongoDB", "Firebase SDK", "Stripe SDK", "PostgreSQL", "AWS (beginner)"] 
+   "title": "On-Page SEO",
+   "items": ["Yoast SEO", "Rank Math SEO", "All-in-One SEO"] 
   },
   {
     "id": 3,
     "icon": "images/tools.png",
-    "title": "Tools",
-    "items": ["Git", "GitHub", "Figma", "Terminal", "VS Code", "MUI", "Tailwind CSS"]
+    "title": "Technical SEO",
+    "items": ["Google Search Console", "Google Analytics", "Ahrefs Site Audit", "Screaming Frog", "GTmetrix", "Moz Pro"]
   }
 ]
