@@ -8,9 +8,7 @@ export const WhereDidIWorkContent = () => {
         <span className="text-transparent bg-clip-text bg-gradient-to-r from-indigo-600 to-indigo-800">I Work</span>
       </h1>
       <p className="text-base leading-5 text-center mb-8 sm:text-center md:w-11/12 md:text-lg md:text-left lg:w-11/12 lg:text-left">
-        During my career, I had the opportunity to work with some incredible companies,
-        including Zination, Hanaboso, and Spontivly. Across these years, I developed innovative 
-        software solutions that helped our clients achieve their goals and stay ahead of the curve.
+      Throughout my career, I have had valuable SEO experience and a strong passion for digital marketing. I started at Indexsy and later worked as an SEO specialist at WebRefresh and Ignite Visibility. My roles involved conducting website analyses, keyword research, and optimizing on-page elements. Working with a skilled SEO team, we developed effective strategies to improve organic rankings and drive website traffic for clients. These experiences built a solid foundation in SEO and enhanced my analytical skills.
       </p>
     </div>
   )

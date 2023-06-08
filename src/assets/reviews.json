@@ -1,37 +1,37 @@
 [
   {
     "id": 1,
-    "reviewDescription": "Polash is an outstanding software developer with a keen eye for detail and a knack for problem-solving. His expertise in coding languages and frameworks is matched by his ability to communicate complex technical concepts with ease. <br /> Polash's collaborative nature and dedication to producing clean, efficient code make him a valuable asset to any team. His passion for his craft and positive attitude toward work ensures that he is a pleasure to work with.",
+    "reviewDescription": "Robiul Alom Ronju has proven to be an exceptional SEO specialist, delivering outstanding results that have transformed my website's performance. With his profound knowledge and meticulous approach, Ronju has elevated my website's rankings and significantly increased organic traffic. His dedication to providing top-quality service is truly remarkable. I wholeheartedly recommend Ronju as a reliable and highly skilled SEO specialist. Trust him to take your SEO strategy to new heights and experience remarkable results for your online presence.",
     "person": {
-      "imageUrl": "https://media.licdn.com/dms/image/C4D03AQFVGav5z4kJ4A/profile-displayphoto-shrink_200_200/0/1646771249786?e=1686787200&v=beta&t=_ooMVvIj86IPtRy6m3mO-h61xW5CwO7mKM7RJM9A6BY",
-      "image_alt": "David Ker",
-      "role": "Co-Founder, Zination",
+      "imageUrl": "https://media.licdn.com/dms/image/C4E03AQFsrW4NCVzEhA/profile-displayphoto-shrink_400_400/0/1639023645475?e=1691625600&v=beta&t=xWEvrSGSQulq2wjFokhT7FSgnIxqSBKS7Osoq8DKQfM",
+      "image_alt": "John Lincoln",
+      "role": "Co-Founder & CEO of Ignite Visibility",
       "social_url": {
-        "linkedin": "https://www.linkedin.com/in/davidker/"
+        "linkedin": "https://www.linkedin.com/in/johnelincoln/"
       }
     }
   },
   {
     "id": 2,
-    "reviewDescription": "Polash's expertise in software development is second to none, and his work is always executed with precision and efficiency. He is an excellent communicator and works seamlessly with both technical and non-technical teams. <br /> I highly recommend Polash to any team looking for a skilled and driven software developer. He is an invaluable asset, and his contributions are not something you want to miss out on!",
+    "reviewDescription": "Working with Robiul Alom Ronju has been an absolute game-changer for my website's success. His professionalism, expertise, and unwavering commitment to delivering exceptional SEO services have propelled my website to new heights. Ronju's meticulous approach, combined with his in-depth knowledge of SEO techniques, has resulted in significant improvements in my website's rankings and organic traffic. Without a doubt, Ronju is a trustworthy SEO partner who can unlock the full potential of your online presence. I highly recommend him to anyone seeking excellence in SEO services",
     "person": {
-      "imageUrl": "https://hanaboso.com/img/profile/lukas.jpg",
-      "image_alt": "LUKÁŠ TRUMM",
-      "role": "Software Architect, Hanaboso",
+      "imageUrl": "https://media.licdn.com/dms/image/D5603AQFsPiDwHahgPg/profile-displayphoto-shrink_400_400/0/1667539820080?e=1691625600&v=beta&t=aXlXf_tkxQmr3glHNwGLNI8K4wgiEOVajMNQ8WOSbgU",
+      "image_alt": "Luke Thorn",
+      "role": "GM at WebRefresh",
       "social_url": {
-        "linkedin": "https://www.linkedin.com/in/lukastrumm/"
+        "linkedin": "https://www.linkedin.com/in/lukethorn/"
       }
     }
   },
   {
     "id": 3,
-    "reviewDescription": "Polash is a quick learner who is always looking for ways to improve his skills and stay up-to-date with the latest industry trends. His dedication to his craft is truly inspiring, and his ability to work seamlessly with teams makes him an excellent addition to any project. <br /> His commitment to excellence and unwavering work ethic make him a valuable asset, and I have no doubt that he will continue to be a high performer wherever he goes.",
+    "reviewDescription": "Robiul Alom Ronju's expertise as an SEO specialist has been instrumental in the success of my website. His exceptional skills and dedication have taken my online presence to new heights. Ronju's meticulous attention to detail, coupled with his up-to-date knowledge of SEO trends, has translated into remarkable improvements in my website's rankings and a substantial increase in organic traffic. Ronju's professionalism and commitment to delivering excellence make him a standout SEO",
     "person": {
-      "imageUrl": "https://media.licdn.com/dms/image/C5603AQF7vQkxcu0aeA/profile-displayphoto-shrink_200_200/0/1643691256175?e=1686787200&v=beta&t=mBWgmzqkrHmqR06jMZOPpSTIj1fQMdcP3lJP3ernIF0",
-      "image_alt": "Anthony Nagendraraj",
-      "role": "Co-Founder, Spontivly",
+      "imageUrl": "https://media.licdn.com/dms/image/D5603AQEIe9fE-0b21Q/profile-displayphoto-shrink_400_400/0/1676269160655?e=1691625600&v=beta&t=kKlclrFkQ8JkaX5raAV63RVE56k9ow_iU2M-DAR9tAQ",
+      "image_alt": "Jacky Chou",
+      "role": "Founder of Indexsy",
       "social_url": {
-        "linkedin": "https://www.linkedin.com/in/anthonynagendraraj/"
+        "linkedin": "https://www.linkedin.com/in/jacky-chou/"
       }
     }
   }
